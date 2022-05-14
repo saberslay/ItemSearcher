@@ -1,6 +1,6 @@
 <div align="center">
 	<h1>Item Searcher</h1>
-	<p>Item Searcher is primarily an early-stage interactive application and rendering engine for Windows. Currently not much is implemented.</p>
+	<p>Item Searcher is primarily an early-stage interactive application</p>
 
 </div>
 
